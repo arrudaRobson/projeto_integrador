@@ -2,7 +2,7 @@
 layout: post
 title:  "Soluções para web"
 date:   2018-11-03
-excerpt: "Desnvolvimento de sites comerciais, e-comerce, blog e mais" ![dev_wev](http://res.cloudinary.com/dxz5x76gx/image/upload/q_auto:eco/v1541341129/dev_web.png){: .image-rigth}
+excerpt: "Desnvolvimento de sites comerciais, e-comerce, blog e mais"
 ---
 
 ## Web
