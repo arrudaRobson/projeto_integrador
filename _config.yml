@@ -8,7 +8,7 @@ logo:               'assets/img/roots.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://arrudarobson.github.io/projeto_integrador/
+url:                https://arrudarobson.github.io/projeto_integrador
 
 # Jekyll
 permalink:          /:title/
