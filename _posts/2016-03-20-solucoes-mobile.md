@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soluções Mobile"
-date:   2016-03-15
+date:   2018-11-04
 excerpt: "Soluções de desenvolvimento de aplicativos mobile para sua empresa, conheça um pouco sobre o nosso trabalho e o que podemos oferecer para sua empresa"
 ---
 
